@@ -77,14 +77,3 @@ for karakter in recenica:
             broj_velikih_slova +=1
 
 
-# Zadatak 5
-'''
-Korisnik unosi tri broja.
-Naći minimum i maksimum među unijetim brojevima i rezultat prikazati korisniku
-'''
-
-# Zadatak 6
-'''
-Napisati program koji racuna zbir parnih i proizvod neparnih brojeva od 1 do 15
-Takodje, prikazati koliko ima parnih, a koliko neparnih brojeva iz tog segmenta
-'''
