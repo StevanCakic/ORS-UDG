@@ -1,7 +1,7 @@
 # ORS-UDG
 Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 
-# Nedelja 1
+## Nedelja 1
 - Upoznavanje
 - Gradivo do prvog kolokvijuma
 - Domaći zadaci, kolokvijum, aktivnost na casu
@@ -14,12 +14,12 @@ Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 - Operatori
 - Zadaci
 
-# Nedelja 2
+## Nedelja 2
 - Stringovi, boolean
 - Kondicije i petlje
 - Zadaci
 
-# Nedelja 3
+## Nedelja 3
 - Liste
 - Torke
 - Funkcije
