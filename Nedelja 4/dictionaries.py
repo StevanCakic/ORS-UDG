@@ -11,7 +11,7 @@
 
     Funkcije testirati
 '''
-
+'''
 def unos_studenata(broj_studenata):
     studenti = []
     for i in range(0, broj_studenata):
@@ -38,3 +38,24 @@ studenti = unos_studenata(broj_studenata).copy()
 min_prosjek = float(input("Unesite minimalni prosjek studenta:"))
 studenti_sa_zadovoljavajucim_prosjekom = izdvoji_studente(studenti, min_prosjek)
 print(studenti_sa_zadovoljavajucim_prosjekom)
+
+'''
+
+string = "ZNG 1300 2.66 B,NY 50 56.32 B,OWW 1000 11.623 B,OGG 20 580.1 B"
+list_string = string.split(",")
+print(list_string)
+kupljenih = 0
+prodatih = 0
+for elem in list_string:
+    splited_elem = elem.split(" ")
+    if splited_elem[3] == "B":
+        kupljenih += (float(splited_elem[1]) * float(splited_elem[2]))
+    if splited_elem[3] == "S":
+        prodatih += (float(splited_elem[1]) * float(splited_elem[2]))
+
+
+my_dict = {"ime": "Neko ime", "prezime": "Neko prezime"}
+if not "adresa" in my_dict:
+    my_dict["adresa"] = "Default vrijednost"
+
+print(my_dict)
