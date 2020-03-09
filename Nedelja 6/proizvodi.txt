@@ -1,0 +1,3 @@
+Naziv, Opis, Godina, Kolicina, Cijena
+Televizor, LG televizor 43inc, 2019, 10, 300
+Televizor,  Samsung televizor 39inc, 2017, 5, 250
