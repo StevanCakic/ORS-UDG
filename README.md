@@ -30,3 +30,7 @@ Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 - List comprenhension
 - Rad sa fajlovima
 - Zadaci
+
+## Nedelja 5
+- Fajlovi
+- Test 1
