@@ -1,0 +1,1 @@
+# Zadaci sa prvog prakticnog testa
