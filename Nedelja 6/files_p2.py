@@ -1,6 +1,7 @@
 # Zadatak 2
-# U fajlu studenti nalazi se lista studenata sa ocjenama za zadati predmet.
-# 10, 9, 8, 7, 6, 5
+# U fajlu studenti nalazi se lista studenata sa ocjenama oblika
+# ime, prezime, ocjena za zadati predmet. Svaki student se cuva u novom redu
+# Ocjene: 10, 9, 8, 7, 6, 5
 
 # Napisati funkciju koja vraca prosjecnu ocjenu ostvarenu na ispitu.
 # E [6 - 6.5), D [6.5, 7.5), C [7.5, 8.5), B [8.5, 9.5), A [9.5, 10]
