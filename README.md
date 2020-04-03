@@ -34,3 +34,14 @@ Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 ## Nedelja 5
 - Fajlovi
 - Test 1
+
+## Nedelja 6
+- Fajlovi, nastavak
+- Matrice
+
+## Nedelja 7
+- Izuzeci
+- Funkcionalno programiranje
+
+## Nedelja 9
+- OOP
