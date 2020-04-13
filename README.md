@@ -45,3 +45,21 @@ Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 
 ## Nedelja 9
 - OOP
+
+## Nedelja 10
+- Rekurzija
+- CSV fajlovi
+
+## Nedelja 11
+- Konsultacije
+- Test 2
+
+## Nedelja 12
+- JSON
+- urllib
+
+## Nedelja 13
+- Python primjena
+
+## Nedelja 14
+- Test 3
