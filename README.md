@@ -59,4 +59,7 @@ Vjezbe iz predmeta ORS - Matematika / Elektrotehnika i racunarstvo
 - urllib
 
 ## Nedelja 13
+- Python primjena
+
+## Nedelja 14
 - Test 3
