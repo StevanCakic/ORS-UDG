@@ -6,7 +6,8 @@ print(dir(parse))
 
 params = {"v": "mpnBNGOSplA", "t": "1m56s"}
 
-querystring = parse.urlencode(params)
+querystring = parse.urlencode(params) # v=mpnBNGOSplA&t=1m56s
+
 print(querystring)
 url = f"https://www.youtube.com/watch?{querystring}"
 print(url)

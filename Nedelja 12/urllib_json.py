@@ -1,5 +1,7 @@
 from urllib import request
 import json
 
-content = request.urlopen("https://jsonblob.com/api/593e0bfd-7d77-11ea-9563-4b410f96c8ea").read()
-print(json.loads(content.decode()))
+content = request.urlopen("https://jsonblob.com/api/53f3a330-7d90-11ea-9563-fdc45b5abb31").read()
+dictionary = json.loads(content.decode())
+print(dictionary)
+print(dictionary["data"][0]["hobbies"])

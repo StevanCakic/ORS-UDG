@@ -1,13 +1,14 @@
 import json
 dir(json)
 # some JSON:
-x =  '{ "name":"John", "age":30, "city":"New York"}'
+x =  ' {"name":"John", "age":30, "city":"New York"} '
 
 # parse x:
 y = json.loads(x)
 
 # the result is a Python dictionary:
 print(y["age"])
+
 
 # a Python object (dict):
 x = {
@@ -19,6 +20,7 @@ x = {
 # convert into string
 y = json.dumps(x)
 print(y)
+
 
 # convert other data types
 
@@ -47,5 +49,6 @@ x = {
 }
 
 print(json.dumps(x))
+print(x["cars"][0]["model"])
 
 print(json.dumps(x, indent=4, sort_keys=True))
